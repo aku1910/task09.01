@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+   <h1>USER LOGIN</h1>
+   <form>
+<label for="Username">Username</label><br>
+<input type="text" id="usarname" name="usarname">
+<hr>
+
+<label for="Password">Password</label><br>
+<input type="password" id="Password" name="Password">
+<hr>
+<br>
+<ul type="none">
+    <input type="submit" value="LOGIN">
+    <li id="Forgot Password"><a href="./index.html">Forgot Password?</a></li>
+ </ul>
+   </form>
+</body>
+
+</html>
